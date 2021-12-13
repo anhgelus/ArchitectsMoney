@@ -1,0 +1,15 @@
+name: ArchitectsMoney
+version: '${version}'
+main: codes.anhgelus.architectsMoney.ArchitectsMoney
+api-version: 1.17
+authors: [ Anhgelus ]
+description: The money system of ArchitectsLand
+commands:
+  eco:
+    usage: Command Error
+    description: Economy Command (use "/eco" for more informations)
+    aliases:
+      - economy
+  devise:
+    usage: Command Error
+    description: Devise Command (use "/devise" for more informations)
